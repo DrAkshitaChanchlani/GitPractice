@@ -8,6 +8,7 @@
 struct Student {
     var id: Int
     var name: String
+    var marks: Int
 }
 
 var students: [Student] = [Student(id: 1, name: "St1"), Student(id: 2, name: "St2")]
