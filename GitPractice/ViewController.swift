@@ -26,6 +26,7 @@ class ViewController: UIViewController {
     @IBAction func buttonTapped(_ sender: Any) {
         myLabel.text = "Hello! Everyone!!"
         print(myLabel.text! + "😄")
+        print("One more statement added")
     }
 }
 
