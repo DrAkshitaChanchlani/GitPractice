@@ -12,3 +12,5 @@ struct Student {
 }
 
 var students: [Student] = [Student(id: 1, name: "St1",marks: 90), Student(id: 2, name: "St2", marks:95)]
+
+var studentSecondArrayData: [Student] = [Student(id: 3, name: "St3", marks: 80), Student(id: 4, name: "St4", marks: 85)]
