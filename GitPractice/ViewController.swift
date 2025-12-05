@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         
         print("First Commit")
         var str = "Learning Git is fun!"
-        print("Test1")
+        print("Test2")
         print("str value is \(str)")
         super.viewDidLoad()
         // Do any additional setup after loading the view.
